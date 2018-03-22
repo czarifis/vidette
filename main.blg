@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: abbrv.bst
+Database file #1: refs.bib
+A bad cross reference---entry "DBLP:conf/icde/LiarouI14"
+refers to entry "DBLP:conf/icde/2014", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/icde/2014"
+Warning--can't use both volume and number fields in livny1997devise
+You've used 23 entries,
+            2118 wiz_defined-function locations,
+            633 strings with 8222 characters,
+and the built_in function-call counts, 9184 in all, are:
+= -- 900
+> -- 489
+< -- 8
++ -- 199
+- -- 172
+* -- 678
+:= -- 1445
+add.period$ -- 70
+call.type$ -- 23
+change.case$ -- 157
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 325
+empty$ -- 683
+format.name$ -- 172
+if$ -- 1946
+int.to.chr$ -- 0
+int.to.str$ -- 23
+missing$ -- 21
+newline$ -- 114
+num.names$ -- 38
+pop$ -- 183
+preamble$ -- 1
+purify$ -- 136
+quote$ -- 0
+skip$ -- 252
+stack$ -- 0
+substring$ -- 583
+swap$ -- 97
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 88
+warning$ -- 1
+while$ -- 75
+width$ -- 25
+write$ -- 248
+(There was 1 error message)
